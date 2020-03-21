@@ -3,3 +3,4 @@ experiment.csv
 experiment-F.csv
 .ipynb_checkpoints
 TrackedLocations
+api_credentials.py
