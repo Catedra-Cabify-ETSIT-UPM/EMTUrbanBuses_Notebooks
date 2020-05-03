@@ -1,6 +1,12 @@
-M6
 experiment.csv
 experiment-F.csv
 .ipynb_checkpoints
-TrackedLocations
 api_credentials.py
+__pycache__
+apps/.ipynb_checkpoints
+buses_data.csv
+buses_data_burst.csv
+Data/Raw/*
+Data/Processed/*
+*.swp
+.cache
